@@ -12,11 +12,11 @@
     "target_path": "vendor/motorola"
   },
   {
-    "repository": "android_external_bson",
+    "repository": "Cyanogenmod/android_external_bson",
     "target_path": "external/bson"
   },
   {
-    "repository": "android_external_stlport",
+    "repository": "Cyanogenmod/android_external_stlport",
     "target_path": "external/stlport"
   },
   {
@@ -24,7 +24,7 @@
     "target_path": "device/qcom/common"
   },
   {
-    "repository": "android_vendor_qcom_opensource_dataservices",
+    "repository": "Cyanogenmod/android_vendor_qcom_opensource_dataservices",
     "target_path": "vendor/qcom/opensource/dataservices"
   }
 ]
